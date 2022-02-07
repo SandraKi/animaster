@@ -1,0 +1,29 @@
+{
+  "name": "animaster",
+  "version": "1.0.0",
+  "description": "For creating animated learning videos",
+  "main": "src/animaster.js",
+  "type": "module",
+  "dependencies": {
+    "gsap": "3.7.1",
+    "p5": "1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandraKi/animaster.git"
+  },
+  "keywords": [
+    "animation",
+    "learning-videos"
+  ],
+  "author": "Sandra Kindler <s80973@beuth-hochschule.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandraKi/animaster/issues"
+  },
+  "homepage": "https://github.com/SandraKi/animaster#readme"
+}
